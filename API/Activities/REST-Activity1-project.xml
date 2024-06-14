@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="6ee7e1e0-c074-4ea5-9013-2fdc64b9bcec" created="3.53.0" activeEnvironment="Default environment" encryptionMode="Not encrypted" name="REST Project 2" projectVersion="" updated="3.53.0 2024-05-13T12:06:25Z" xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="6ee7e1e0-c074-4ea5-9013-2fdc64b9bcec" created="3.53.0" activeEnvironment="Default environment" encryptionMode="Not encrypted" name="REST Activity1" projectVersion="" updated="3.53.0 2024-05-13T12:06:25Z" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
   <con:interface xsi:type="con:RestService" id="e98b0fcf-aae4-4b17-8447-62cb562211ec" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://petstore.swagger.io" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <con:settings id="7f9faccf-c381-47ef-a565-824eed6843d1"/>
